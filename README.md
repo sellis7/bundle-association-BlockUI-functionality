@@ -10,7 +10,7 @@ for consistency.
 The modal window opens iframe-contained content with a dropdown-type, expandable element
 that when expanded, results in the modal window being scrollable along the y-axis.
 
-** Visual references of the UI are provided as JPG files that show the accessible link that
+*Visual references of the UI are provided as JPG files that show the accessible link that
 associates the course to the bundled group of courses, and the resulting modal window that
 displays once the link is clicked. Additionally, a snapshot of the resulting HTML shows
-the structure of the iframe content nested within the modal window. **
+the structure of the iframe content nested within the modal window.*
